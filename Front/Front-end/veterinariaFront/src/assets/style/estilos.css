@@ -1,0 +1,143 @@
+body {
+
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.MenuVeterinaria {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3282B8;
+    padding: 20px 30px;
+}
+
+.MenuVeterinaria .imgLogo {
+    width: 200px;
+}
+
+.menu .active {
+    background-color: yellow;
+    font-size: 10px;
+    border-radius: 8px;
+}
+
+.menu .active:hover {
+    background-color: gray;
+}
+
+.botones {
+    display: flex;
+}
+
+.btns {
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.btnM {
+    margin-right: 0;
+}
+
+
+.btn:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 5px;
+}
+
+
+.ImgBienvenida {
+    display: block;
+    width: 1000px;
+}
+
+.contenedor-img {
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor {
+    width: 80%;
+}
+
+.tabla {
+    width: 100% !important;
+    margin-top: 0.5%;
+    margin-left: 30px;
+    display: flex;
+}
+
+.tabla table {
+    width: 700px !important;
+}
+
+.mostrarCompleto {
+    width: 100%;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+
+.descr {
+    width: 700px;
+}
+
+.apis {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.texto {
+    width: 50%;
+}
+
+.aniadir {
+    width: 80%;
+    margin-left: 25px !important;
+}
+
+.inputs {
+    display: flex;
+    width: 80%;
+}
+
+.inputs input {
+    width: 50% !important;
+}
+
+.boton {
+    margin-top: -8px;
+    padding: 5px;
+}
+
+.but {
+    margin-top: 5px;
+}
+
+.but button {
+    margin-left: 220px;
+}
+
+.busc input {
+    width: 100%;
+}
+
+.botn2 {
+    margin-left: 5px;
+}
+
+.margen {
+    margin-top: 15px;
+}
+
+.subCont {
+    display: flex;
+
+}
+
+.formudata input {
+    width: 200px;
+    margin: 5px;
+}
